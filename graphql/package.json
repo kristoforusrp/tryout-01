@@ -1,0 +1,12 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "Basic crud of implementation graphql with react-native",
+  "main": "index.js",
+  "author": "Kris",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "express-graphql": "^0.6.4"
+  }
+}

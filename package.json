@@ -1,0 +1,9 @@
+{
+  "name": "yield",
+  "version": "1.0.0",
+  "description": "basic generator-yield implementation",
+  "main": "index.js",
+  "repository": "git@github.com:kristoforusrp/tryout-01.git",
+  "author": "kristoforusrp <kristoforusrp@gmail.com>",
+  "license": "MIT"
+}

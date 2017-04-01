@@ -1,0 +1,11 @@
+{
+  "name": "yield",
+  "version": "1.0.0",
+  "description": "Basic yield implementation",
+  "scripts": {
+      "start": "node index.js" 
+  },
+  "main": "index.js",
+  "author": "Kris",
+  "license": "MIT"
+}

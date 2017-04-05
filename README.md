@@ -14,7 +14,7 @@ Basic Implementation of GENERATOR - YIELD, WEBSOCKET, GRAPHQL
 
 
 
-[yield](https://github.com/kristoforusrp/tryout-01/tree/master/yield)
-[graphql](https://github.com/kristoforusrp/tryout-01/tree/master/graphql)
-[websocket](https://github.com/kristoforusrp/tryout-01/tree/master/websocket)
+[yield]: https://github.com/kristoforusrp/tryout-01/tree/master/yield
+[graphql]: https://github.com/kristoforusrp/tryout-01/tree/master/graphql
+[websocket]: https://github.com/kristoforusrp/tryout-01/tree/master/websocket
 [Kristoforusrp]: Kristoforusrp@gmail.com
